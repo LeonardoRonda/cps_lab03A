@@ -12,6 +12,11 @@ public class StudentRepository {
         print("Prueba 1");
     }
 
+    public static void metodo2(){
+        print("Probando....");
+    }
+
     //colocar mas contenido
     // se modifico el archivo
+
 }

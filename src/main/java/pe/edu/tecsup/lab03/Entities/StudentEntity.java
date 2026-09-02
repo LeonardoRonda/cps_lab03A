@@ -13,6 +13,10 @@ public class StudentEntity {
         print("Inprimiendo resultados");
     }
 
+    public static void metodo4(){
+        print("Probando nuevamente....");
+    }
+
     // agregar mas contenido
     // colocando mas contenido
 
